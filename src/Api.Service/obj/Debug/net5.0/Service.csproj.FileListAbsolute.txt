@@ -1,0 +1,17 @@
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Service.dll
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Service.pdb
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.dll
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.pdb
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Data.dll
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Domain.dll
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Data.pdb
+D:\AluraFilmes\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+D:\AluraFilmes\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
